@@ -22,7 +22,8 @@ public class Cell {
     }
     
     public boolean isOccupied(){
-        return isOccupied;
+        return isOccupied;     
+        
     }
     
     public void fill(boolean b){
